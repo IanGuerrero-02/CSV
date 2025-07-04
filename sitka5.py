@@ -109,3 +109,4 @@ fig.autofmt_xdate()
 plt.suptitle("Temperature comparison between SITKA AIRPORT, AK US and DEATH VALLEY, CA US" )
 
 plt.show()
+
